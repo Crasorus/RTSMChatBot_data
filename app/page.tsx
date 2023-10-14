@@ -10,7 +10,7 @@ export default function Home() {
     {
       role: "assistant",
       content:
-        "Hello! Welcome to the RTSM Bot. I hope you are enjoying the IRT conference",
+        "Hello! Welcome to the RTSM Bot. I hope you are enjoying the IRT conference !",
     },
   ]);
   const lastMessageRef = useRef<HTMLDivElement | null>(null);
